@@ -1,0 +1,4 @@
+<html>
+<body src="background.jpg">
+</body>
+</html>
